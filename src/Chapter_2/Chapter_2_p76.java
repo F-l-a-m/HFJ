@@ -23,4 +23,3 @@ class DrumKit {
 		System.out.println("bang bang ba-bang");
 	}
 }
-
